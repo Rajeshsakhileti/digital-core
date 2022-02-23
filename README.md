@@ -1,4 +1,4 @@
 # digital-core
 digital-core
 This is a Master branch 
-I LOVE YOU RAJESH
+this is the parametorized
